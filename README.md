@@ -6,7 +6,7 @@ Web Developer and Designer
 
 I don’t just build apps; I build products with purpose. As a proficient web developer, my focus is on the intersection of clean code and market viability. I treat every repository as a potential business case, looking for that unique value proposition that turns a tool into a solution.
 
-🚀 My Philosophy
+### 🚀My Philosophy
 
 ~ Speed & Efficiency: I leverage AI and modern frameworks to move from "concept" to "MVP" at lightning speed.
 
@@ -20,6 +20,7 @@ I don’t just build apps; I build products with purpose. As a proficient web de
 * 👥  I'm looking to collaborate on SaaS products with a strong Unique Value Proposition and clear market fitness.
 * 💬  Ask me about I’m secretly a Product Architect… but keep it between us. My day job is making code look easy.🕸️🌐
 
+### SKILLS
 <table>
   <tr>
     <td align="center" width="150px"><b>Languages & Tools</b></td>
@@ -51,7 +52,7 @@ I don’t just build apps; I build products with purpose. As a proficient web de
   </tr>
 </table>
 
-### Socials
+### SOCIALS
 
 <p align="left"> <a href="https://www.github.com/SmritiD2004" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.gitlab.com/SmritiD2004" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" width="32" height="32" alt="GitLab" title="GitLab" /> </picture> </a></p>
 ### Badges
